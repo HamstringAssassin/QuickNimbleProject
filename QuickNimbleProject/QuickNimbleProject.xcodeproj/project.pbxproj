@@ -97,12 +97,9 @@
 		60D5B40D1CD7EEBC006BB646 /* QuickNimbleProject */ = {
 			isa = PBXGroup;
 			children = (
-				60D5B40E1CD7EEBC006BB646 /* AppDelegate.swift */,
-				60D5B4101CD7EEBC006BB646 /* ViewController.swift */,
-				60D5B4121CD7EEBC006BB646 /* Main.storyboard */,
-				60D5B4151CD7EEBC006BB646 /* Assets.xcassets */,
-				60D5B4171CD7EEBC006BB646 /* LaunchScreen.storyboard */,
-				60D5B41A1CD7EEBC006BB646 /* Info.plist */,
+				60D5B43C1CD7EF5D006BB646 /* Model */,
+				60D5B43E1CD7EF77006BB646 /* View */,
+				60D5B43D1CD7EF63006BB646 /* Resources */,
 			);
 			path = QuickNimbleProject;
 			sourceTree = "<group>";
@@ -123,6 +120,33 @@
 				60D5B4301CD7EEBC006BB646 /* Info.plist */,
 			);
 			path = QuickNimbleProjectUITests;
+			sourceTree = "<group>";
+		};
+		60D5B43C1CD7EF5D006BB646 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		60D5B43D1CD7EF63006BB646 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				60D5B40E1CD7EEBC006BB646 /* AppDelegate.swift */,
+				60D5B4121CD7EEBC006BB646 /* Main.storyboard */,
+				60D5B4151CD7EEBC006BB646 /* Assets.xcassets */,
+				60D5B4171CD7EEBC006BB646 /* LaunchScreen.storyboard */,
+				60D5B41A1CD7EEBC006BB646 /* Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		60D5B43E1CD7EF77006BB646 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				60D5B4101CD7EEBC006BB646 /* ViewController.swift */,
+			);
+			name = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
