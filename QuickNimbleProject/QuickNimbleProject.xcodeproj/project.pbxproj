@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F13B1B4F6BE3FA0474D5117 /* Pods_QuickNimbleProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D57FD1D370D877458BE92A47 /* Pods_QuickNimbleProject.framework */; };
 		60D5B40F1CD7EEBC006BB646 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D5B40E1CD7EEBC006BB646 /* AppDelegate.swift */; };
 		60D5B4111CD7EEBC006BB646 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D5B4101CD7EEBC006BB646 /* ViewController.swift */; };
 		60D5B4141CD7EEBC006BB646 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60D5B4121CD7EEBC006BB646 /* Main.storyboard */; };
@@ -14,6 +15,8 @@
 		60D5B4191CD7EEBC006BB646 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60D5B4171CD7EEBC006BB646 /* LaunchScreen.storyboard */; };
 		60D5B4241CD7EEBC006BB646 /* QuickNimbleProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D5B4231CD7EEBC006BB646 /* QuickNimbleProjectTests.swift */; };
 		60D5B42F1CD7EEBC006BB646 /* QuickNimbleProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D5B42E1CD7EEBC006BB646 /* QuickNimbleProjectUITests.swift */; };
+		62C284135C13B75E381C7390 /* Pods_QuickNimbleProjectTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DADFD4EAFD7233A5F05E19A /* Pods_QuickNimbleProjectTests.framework */; };
+		AE8F7E81EBA36AFAC57ADCD0 /* Pods_QuickNimbleProjectUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ECF8054B72CE56345BAD5CAA /* Pods_QuickNimbleProjectUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0E9605E91B16574D550118E2 /* Pods-QuickNimbleProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuickNimbleProject.release.xcconfig"; path = "Pods/Target Support Files/Pods-QuickNimbleProject/Pods-QuickNimbleProject.release.xcconfig"; sourceTree = "<group>"; };
+		2CC483CBD00C789D4267D741 /* Pods-QuickNimbleProjectUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuickNimbleProjectUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QuickNimbleProjectUITests/Pods-QuickNimbleProjectUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		5DADFD4EAFD7233A5F05E19A /* Pods_QuickNimbleProjectTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QuickNimbleProjectTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		60D5B40B1CD7EEBC006BB646 /* QuickNimbleProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickNimbleProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60D5B40E1CD7EEBC006BB646 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60D5B4101CD7EEBC006BB646 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +53,12 @@
 		60D5B42A1CD7EEBC006BB646 /* QuickNimbleProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuickNimbleProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		60D5B42E1CD7EEBC006BB646 /* QuickNimbleProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickNimbleProjectUITests.swift; sourceTree = "<group>"; };
 		60D5B4301CD7EEBC006BB646 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B3D3BC7485C648E26F6AC34 /* Pods-QuickNimbleProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuickNimbleProjectTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-QuickNimbleProjectTests/Pods-QuickNimbleProjectTests.release.xcconfig"; sourceTree = "<group>"; };
+		D57FD1D370D877458BE92A47 /* Pods_QuickNimbleProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QuickNimbleProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7F071E2D16767561403A8A6 /* Pods-QuickNimbleProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuickNimbleProject.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QuickNimbleProject/Pods-QuickNimbleProject.debug.xcconfig"; sourceTree = "<group>"; };
+		E5264C372A16463F6E14D715 /* Pods-QuickNimbleProjectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuickNimbleProjectTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QuickNimbleProjectTests/Pods-QuickNimbleProjectTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E61BB716AF86FF30B581A51A /* Pods-QuickNimbleProjectUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuickNimbleProjectUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-QuickNimbleProjectUITests/Pods-QuickNimbleProjectUITests.release.xcconfig"; sourceTree = "<group>"; };
+		ECF8054B72CE56345BAD5CAA /* Pods_QuickNimbleProjectUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QuickNimbleProjectUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F13B1B4F6BE3FA0474D5117 /* Pods_QuickNimbleProject.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62C284135C13B75E381C7390 /* Pods_QuickNimbleProjectTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +82,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE8F7E81EBA36AFAC57ADCD0 /* Pods_QuickNimbleProjectUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		593304290CA241BB4C4C5D61 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D57FD1D370D877458BE92A47 /* Pods_QuickNimbleProject.framework */,
+				5DADFD4EAFD7233A5F05E19A /* Pods_QuickNimbleProjectTests.framework */,
+				ECF8054B72CE56345BAD5CAA /* Pods_QuickNimbleProjectUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		60D5B4021CD7EEBC006BB646 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +106,8 @@
 				60D5B4221CD7EEBC006BB646 /* QuickNimbleProjectTests */,
 				60D5B42D1CD7EEBC006BB646 /* QuickNimbleProjectUITests */,
 				60D5B40C1CD7EEBC006BB646 /* Products */,
+				B0CF5166E2D29D00C2ED8B39 /* Pods */,
+				593304290CA241BB4C4C5D61 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -149,6 +176,19 @@
 			name = View;
 			sourceTree = "<group>";
 		};
+		B0CF5166E2D29D00C2ED8B39 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D7F071E2D16767561403A8A6 /* Pods-QuickNimbleProject.debug.xcconfig */,
+				0E9605E91B16574D550118E2 /* Pods-QuickNimbleProject.release.xcconfig */,
+				E5264C372A16463F6E14D715 /* Pods-QuickNimbleProjectTests.debug.xcconfig */,
+				9B3D3BC7485C648E26F6AC34 /* Pods-QuickNimbleProjectTests.release.xcconfig */,
+				2CC483CBD00C789D4267D741 /* Pods-QuickNimbleProjectUITests.debug.xcconfig */,
+				E61BB716AF86FF30B581A51A /* Pods-QuickNimbleProjectUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -156,9 +196,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 60D5B4331CD7EEBC006BB646 /* Build configuration list for PBXNativeTarget "QuickNimbleProject" */;
 			buildPhases = (
+				4DB4E0BB4BFA69C3EA7E2F7B /* 📦 Check Pods Manifest.lock */,
 				60D5B4071CD7EEBC006BB646 /* Sources */,
 				60D5B4081CD7EEBC006BB646 /* Frameworks */,
 				60D5B4091CD7EEBC006BB646 /* Resources */,
+				BF81BFF6E956ED0FFAD3EB65 /* 📦 Embed Pods Frameworks */,
+				DCC58280468C2C98862BDC23 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -173,9 +216,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 60D5B4361CD7EEBC006BB646 /* Build configuration list for PBXNativeTarget "QuickNimbleProjectTests" */;
 			buildPhases = (
+				C7F9C292A8C4194BAA190381 /* 📦 Check Pods Manifest.lock */,
 				60D5B41B1CD7EEBC006BB646 /* Sources */,
 				60D5B41C1CD7EEBC006BB646 /* Frameworks */,
 				60D5B41D1CD7EEBC006BB646 /* Resources */,
+				CD6D435BAEDBC5D14262BBEF /* 📦 Embed Pods Frameworks */,
+				39086354A97C937A12BAD7A3 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -191,9 +237,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 60D5B4391CD7EEBC006BB646 /* Build configuration list for PBXNativeTarget "QuickNimbleProjectUITests" */;
 			buildPhases = (
+				F74AAEB36C3F58CF3DB45E81 /* 📦 Check Pods Manifest.lock */,
 				60D5B4261CD7EEBC006BB646 /* Sources */,
 				60D5B4271CD7EEBC006BB646 /* Frameworks */,
 				60D5B4281CD7EEBC006BB646 /* Resources */,
+				16A903FD830C15D10FAD08E6 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -274,6 +322,129 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		16A903FD830C15D10FAD08E6 /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-QuickNimbleProjectUITests/Pods-QuickNimbleProjectUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		39086354A97C937A12BAD7A3 /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-QuickNimbleProjectTests/Pods-QuickNimbleProjectTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4DB4E0BB4BFA69C3EA7E2F7B /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		BF81BFF6E956ED0FFAD3EB65 /* 📦 Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-QuickNimbleProject/Pods-QuickNimbleProject-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C7F9C292A8C4194BAA190381 /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		CD6D435BAEDBC5D14262BBEF /* 📦 Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-QuickNimbleProjectTests/Pods-QuickNimbleProjectTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DCC58280468C2C98862BDC23 /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-QuickNimbleProject/Pods-QuickNimbleProject-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F74AAEB36C3F58CF3DB45E81 /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		60D5B4071CD7EEBC006BB646 /* Sources */ = {
@@ -423,6 +594,7 @@
 		};
 		60D5B4341CD7EEBC006BB646 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D7F071E2D16767561403A8A6 /* Pods-QuickNimbleProject.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = QuickNimbleProject/Info.plist;
@@ -435,6 +607,7 @@
 		};
 		60D5B4351CD7EEBC006BB646 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0E9605E91B16574D550118E2 /* Pods-QuickNimbleProject.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = QuickNimbleProject/Info.plist;
@@ -447,6 +620,7 @@
 		};
 		60D5B4371CD7EEBC006BB646 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E5264C372A16463F6E14D715 /* Pods-QuickNimbleProjectTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = QuickNimbleProjectTests/Info.plist;
@@ -459,6 +633,7 @@
 		};
 		60D5B4381CD7EEBC006BB646 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9B3D3BC7485C648E26F6AC34 /* Pods-QuickNimbleProjectTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = QuickNimbleProjectTests/Info.plist;
@@ -471,6 +646,7 @@
 		};
 		60D5B43A1CD7EEBC006BB646 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2CC483CBD00C789D4267D741 /* Pods-QuickNimbleProjectUITests.debug.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = QuickNimbleProjectUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -482,6 +658,7 @@
 		};
 		60D5B43B1CD7EEBC006BB646 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E61BB716AF86FF30B581A51A /* Pods-QuickNimbleProjectUITests.release.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = QuickNimbleProjectUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -510,6 +687,7 @@
 				60D5B4351CD7EEBC006BB646 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		60D5B4361CD7EEBC006BB646 /* Build configuration list for PBXNativeTarget "QuickNimbleProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +696,7 @@
 				60D5B4381CD7EEBC006BB646 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		60D5B4391CD7EEBC006BB646 /* Build configuration list for PBXNativeTarget "QuickNimbleProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +705,7 @@
 				60D5B43B1CD7EEBC006BB646 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
