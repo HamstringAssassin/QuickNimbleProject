@@ -82,12 +82,3 @@ strip_invalid_archs() {
   fi
 }
 
-
-if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_framework "$BUILT_PRODUCTS_DIR/Nimble-iOS9.0/Nimble.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/Quick-iOS9.0/Quick.framework"
-fi
-if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_framework "$BUILT_PRODUCTS_DIR/Nimble-iOS9.0/Nimble.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/Quick-iOS9.0/Quick.framework"
-fi

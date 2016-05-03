@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6F97D9C2D04ED45D67672902C4D5E9E0"
+               BlueprintIdentifier = "5BB2EF139D8F9D8E6E906364C81E395D"
                BuildableName = "Pods_QuickNimbleProject.framework"
                BlueprintName = "Pods-QuickNimbleProject"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6F97D9C2D04ED45D67672902C4D5E9E0"
+            BlueprintIdentifier = "5BB2EF139D8F9D8E6E906364C81E395D"
             BuildableName = "Pods_QuickNimbleProject.framework"
             BlueprintName = "Pods-QuickNimbleProject"
             ReferencedContainer = "container:Pods.xcodeproj">

@@ -4,12 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Nimble-iOS9.0.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Nimble-iOS9.3.xcscheme</key>
+		<key>Nimble.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -29,12 +24,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Quick-iOS9.0.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Quick-iOS9.3.xcscheme</key>
+		<key>Quick.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -42,37 +32,27 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1C0558E4A2597373D2F8F6247D1F29A9</key>
+		<key>40FF1C77152F384080A1A02E90A36DA9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>45DBDFF996AC5949FB77D6D15FF5CBD5</key>
+		<key>5BB2EF139D8F9D8E6E906364C81E395D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>50FBCB9E9AF11343E66596FFA95D8EFA</key>
+		<key>9D4AC982E86F22CE107DE499C74F934B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6F97D9C2D04ED45D67672902C4D5E9E0</key>
+		<key>DC3FA53E02D29B81CE8706E2B9A6FD73</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A32AA1BB7369ECECAB79B2449E04BF24</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A893BD6F9867AF453AF79471EB94BCAD</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>EB281C12D9AB1F9B02431C8FD340B658</key>
+		<key>F6E26C41570A20644699CFA2CAA935A9</key>
 		<dict>
 			<key>primary</key>
 			<true/>

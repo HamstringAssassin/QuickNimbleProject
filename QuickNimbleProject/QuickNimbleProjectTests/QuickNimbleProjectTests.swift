@@ -2,7 +2,7 @@
 //  QuickNimbleProjectTests.swift
 //  QuickNimbleProjectTests
 //
-//  Created by Alan O'Connor on 02/05/2016.
+//  Created by Alan O'Connor on 03/05/2016.
 //  Copyright © 2016 Alan O'Connor. All rights reserved.
 //
 

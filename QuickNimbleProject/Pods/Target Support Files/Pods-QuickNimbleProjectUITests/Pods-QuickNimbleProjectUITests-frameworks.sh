@@ -84,10 +84,10 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_framework "$BUILT_PRODUCTS_DIR/Nimble-iOS9.3/Nimble.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/Quick-iOS9.3/Quick.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/Nimble/Nimble.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/Quick/Quick.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_framework "$BUILT_PRODUCTS_DIR/Nimble-iOS9.3/Nimble.framework"
-  install_framework "$BUILT_PRODUCTS_DIR/Quick-iOS9.3/Quick.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/Nimble/Nimble.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/Quick/Quick.framework"
 fi

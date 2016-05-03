@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  QuickNimbleProject
 //
-//  Created by Alan O'Connor on 02/05/2016.
+//  Created by Alan O'Connor on 03/05/2016.
 //  Copyright © 2016 Alan O'Connor. All rights reserved.
 //
 
@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view, typically from a nib.
     }
 
