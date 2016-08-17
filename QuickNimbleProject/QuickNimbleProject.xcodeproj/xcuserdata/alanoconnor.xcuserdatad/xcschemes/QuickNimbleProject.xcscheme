@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "60E80E9E1CD9467800C6B00F"
+               BlueprintIdentifier = "60998DCD1CDFDD3B00B4EBC0"
                BuildableName = "QuickNimbleProject.app"
                BlueprintName = "QuickNimbleProject"
                ReferencedContainer = "container:QuickNimbleProject.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "60E80EB21CD9467800C6B00F"
+               BlueprintIdentifier = "60998DE11CDFDD3B00B4EBC0"
                BuildableName = "QuickNimbleProjectTests.xctest"
                BlueprintName = "QuickNimbleProjectTests"
                ReferencedContainer = "container:QuickNimbleProject.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "60E80EBD1CD9467800C6B00F"
+               BlueprintIdentifier = "60998DEC1CDFDD3B00B4EBC0"
                BuildableName = "QuickNimbleProjectUITests.xctest"
                BlueprintName = "QuickNimbleProjectUITests"
                ReferencedContainer = "container:QuickNimbleProject.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "60E80E9E1CD9467800C6B00F"
+            BlueprintIdentifier = "60998DCD1CDFDD3B00B4EBC0"
             BuildableName = "QuickNimbleProject.app"
             BlueprintName = "QuickNimbleProject"
             ReferencedContainer = "container:QuickNimbleProject.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "60E80E9E1CD9467800C6B00F"
+            BlueprintIdentifier = "60998DCD1CDFDD3B00B4EBC0"
             BuildableName = "QuickNimbleProject.app"
             BlueprintName = "QuickNimbleProject"
             ReferencedContainer = "container:QuickNimbleProject.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "60E80E9E1CD9467800C6B00F"
+            BlueprintIdentifier = "60998DCD1CDFDD3B00B4EBC0"
             BuildableName = "QuickNimbleProject.app"
             BlueprintName = "QuickNimbleProject"
             ReferencedContainer = "container:QuickNimbleProject.xcodeproj">

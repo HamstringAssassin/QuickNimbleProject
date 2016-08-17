@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>OCMock.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-QuickNimbleProject.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -32,6 +37,21 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>0C9D3C758CFA9888936DBEB0F9B3C74D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>115D7998BBFF636C3650412FCC4D5629</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2148BF5D72E0AD48C99BD697ED2F66B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>40FF1C77152F384080A1A02E90A36DA9</key>
 		<dict>
 			<key>primary</key>
@@ -42,17 +62,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9D4AC982E86F22CE107DE499C74F934B</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>DC3FA53E02D29B81CE8706E2B9A6FD73</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F6E26C41570A20644699CFA2CAA935A9</key>
+		<key>C80E80616E03B2F5CBFBE55C5968B7ED</key>
 		<dict>
 			<key>primary</key>
 			<true/>

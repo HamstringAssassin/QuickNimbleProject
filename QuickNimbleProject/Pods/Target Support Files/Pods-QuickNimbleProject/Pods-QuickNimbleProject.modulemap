@@ -1,6 +1,0 @@
-framework module Pods_QuickNimbleProject {
-  umbrella header "Pods-QuickNimbleProject-umbrella.h"
-
-  export *
-  module * { export * }
-}

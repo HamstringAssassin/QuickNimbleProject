@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  QuickNimbleProject
 //
-//  Created by Alan O'Connor on 03/05/2016.
+//  Created by Alan O'Connor on 08/05/2016.
 //  Copyright © 2016 Alan O'Connor. All rights reserved.
 //
 
